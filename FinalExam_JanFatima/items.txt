@@ -1,0 +1,28 @@
+Apples 0.99
+Bananas 0.79
+Orange 0.89
+Grapes 1.29
+Carrots 0.69
+Celery 1.19
+Broccoli 1.49
+Cauliflower 1.99
+
+Frozen Pizza 4.99
+Ice Cream 3.49
+Frozen Vegetables 1.99
+Frozen Dinners 2.99
+Frozen Fruits 2.49
+
+Milk 2.49
+Eggs, 1.99
+Butter, 3.49
+Cheese, 2.99
+Yogurt, 1.49
+
+Dry Foods:
+Rice 1.99
+Pasta 0.99
+Cereal 2.99
+Chips 1.49
+Cookis, 2.49
+Crackers 1.99
